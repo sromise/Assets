@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Tally">
+  <rect width="64" height="64" rx="14" fill="#003E51"/>
+  <rect x="12" y="12" width="40" height="11" rx="4" fill="#1F6378"/>
+  <rect x="12" y="12" width="22" height="11" rx="4" fill="#4AC5E0"/>
+  <rect x="26" y="12" width="8" height="11" fill="#4AC5E0"/>
+  <rect x="34" y="12" width="9" height="11" fill="#FF8300"/>
+  <rect x="27" y="26" width="10" height="27" rx="4" fill="#FFFFFF"/>
+</svg>
